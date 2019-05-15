@@ -363,7 +363,7 @@ footer {
   width: calc(100% - 80px);
   padding: 40px 40px;
   margin-top: 20px;
-  background-color: #111;
+  background-color: #98FB98;
   overflow: hidden;
 }
 
@@ -381,7 +381,7 @@ footer ul li {
 footer ul li a {
   font-family: 'VT323', monospace;
   font-size: 16px;
-  color: #fff;
+  color: #222021;
   line-height: 40px;
 }
 
@@ -411,7 +411,7 @@ footer ul li a {
   footer ul li p {
     font-family: 'VT323', monospace;
     font-size: 16px;
-    color: #fff;
+    color: #222021;
     line-height: 40px;
     text-transform: uppercase;
   }
